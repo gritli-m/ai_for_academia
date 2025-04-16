@@ -1,4 +1,4 @@
---- 
+---
 title: "Искусственный интеллект для исследовательских и прикладных задач"
 author: "YOUR NAME HERE"
 date: "`r Sys.Date()`"
@@ -6,4 +6,9 @@ site: bookdown::bookdown_site
 ---
 
 # Предисловие
+
 ТекстТекстТекст
+
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), fig.link='https://github.com/rstudio/bookdown'}
+knitr::include_graphics('images/0.png', dpi = NA)
+```
